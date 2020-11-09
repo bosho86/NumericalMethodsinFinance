@@ -1,0 +1,4 @@
+/home/paulina/eclipse-workspace/Volatility/Build/CMakeFiles/rebuild_cache.dir
+/home/paulina/eclipse-workspace/Volatility/Build/CMakeFiles/edit_cache.dir
+/home/paulina/eclipse-workspace/Volatility/Build/CMakeFiles/EuroCall.dir
+/home/paulina/eclipse-workspace/Volatility/Build/CMakeFiles/Volatility.dir

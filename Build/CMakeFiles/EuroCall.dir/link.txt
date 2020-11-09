@@ -1,0 +1,2 @@
+/usr/bin/ar qc libEuroCall.a  CMakeFiles/EuroCall.dir/EuroCall/EuroCall.cpp.o
+/usr/bin/ranlib libEuroCall.a

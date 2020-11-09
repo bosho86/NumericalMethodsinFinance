@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../EuroCall/EuroCall.h
+
+../include/Solver03.h
+iostream
+-
+
+/home/paulina/eclipse-workspace/Volatility/src/Volatility.cpp
+EuroCall.h
+/home/paulina/eclipse-workspace/Volatility/src/EuroCall.h
+Solver03.h
+/home/paulina/eclipse-workspace/Volatility/src/Solver03.h
+iostream
+-
+
